@@ -20,6 +20,7 @@ header_pages:
  - about.md
 
 # Build settings
+remote_theme: 3dvkr/minima
 theme: minima
 
 plugins:
