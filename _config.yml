@@ -1,17 +1,18 @@
 title: webdev-log
+tagline: 
 #author: dvkr
 #  name: dvkr
 #  email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  where I document the freedoms and foibles of online learning in a webdev bootcamp,
-  through the lens of a former adult education instructor.
+#description: > # this means to ignore newlines until "show_excerpts:"
+#  where I document the freedoms and foibles of online learning in a webdev bootcamp,
+#  through the lens of a former adult education instructor.
 show_excerpts: true # set to true to show excerpts on the homepage
 permalink: /:categories/:title/
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-
+# minima:
+date_format: "%b %-d, %Y"
+tags_path: /tags/
 twitter_username: _dvkr
 
 # If you want to link only specific pages in your header, uncomment
@@ -22,10 +23,16 @@ header_pages:
 # Build settings
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 remote_theme: sziv2p/jekyll-theme-scaffold
 
-
+feed:
+  tags: true
+  show_excerpts: true
+  posts_limit: 5
+  # most of this ^ is from https://github.com/jekyll/jekyll-feed/
 #remote_theme: 3dvkr/minima
 #theme: minima
 
