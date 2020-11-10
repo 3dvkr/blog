@@ -1,9 +1,10 @@
 title: dvkr
-author:
+# author:
   # name: dvkr
   # email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  where I document the freedoms and foibles of online learning in a webdev bootcamp
+  where I document the freedoms and foibles of online learning in a webdev bootcamp,
+  through the lens of a former adult education instructor.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
