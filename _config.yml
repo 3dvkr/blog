@@ -26,7 +26,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-remote_theme: 3dvkr/sziv2p.github.io # sziv2p/jekyll-theme-scaffold
+#remote_theme: 3dvkr/sziv2p.github.io
+remote_theme: sziv2p/jekyll-theme-scaffold
 
 feed:
   tags: true
