@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   where I document the freedoms and foibles of online learning in a webdev bootcamp,
   through the lens of a former adult education instructor.
 show_excerpts: false # set to true to show excerpts on the homepage
-
+permalink: /:categories/:title/
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
