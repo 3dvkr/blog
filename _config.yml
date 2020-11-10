@@ -1,5 +1,5 @@
 title: dvkr
-#author:
+author:
   name: dvkr
   # email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -13,7 +13,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: _dvkr
+    twitter_username: _dvkr
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
