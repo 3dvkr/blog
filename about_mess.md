@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About_mess
+permalink: /about_mess/
 ---
 
 - I document the freedoms and foibles of online learning in a webdev bootcamp, through the lens of a former adult education instructor and current participant
