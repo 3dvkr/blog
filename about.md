@@ -10,4 +10,4 @@ permalink: /about/
 
 
 
-- Many thanks to https://github.com/sziv2p for doing the heavy lifting of a web design while I'm still new at this
+- Many thanks to [sziv2p](https://github.com/sziv2p) for doing the heavy lifting of a web design while I'm still new at this
