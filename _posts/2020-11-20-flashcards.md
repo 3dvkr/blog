@@ -44,7 +44,7 @@ Over time, I knew enough to be curious about certain aspects of a concept. I now
 
 If I see an exercise that challenges me, or I have **a bit of code that isn't working**, I document my process of working through it using multi-sided cards. *Side 1: Why wouldn't this work? Side 2: what are some ways to fix it? Side 3: What ended up being the solution?* These cards go in the main bootcamp deck. 
 
-Sometimes I follow my guidelines and still see a card during review that I don't like. It reads funny, it's too vague, it's too nit-picky--something about it annoys me. So **I edit my cards a lot**. I'll add missing info, or put hints behind clozures, among other things. If I don't like a card, and don't know how to fix it, I literally write "I don't like this card" to let me know it's okay to move on quickly. My future and hopefully more learned self can revise them. Cards that are too easy get archived, or taken out of rotation, with the option to bring them back.
+Sometimes I follow my guidelines and still see a card during review that I don't like. It reads funny, it's too vague, it's too nit-picky--something about it annoys me. So **I edit my cards a lot**. I'll add missing info, or put hints behind clozures, among other things. If I don't like a card, and don't know how to fix it, I literally write "I don't like this card" to let me know it's okay to move on quickly. My future and hopefully more learned self can revise them. 
 
 ### How do I use my cards?
 
