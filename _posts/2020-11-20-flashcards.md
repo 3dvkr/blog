@@ -56,6 +56,6 @@ With some cards, there's really only one way to move on: say what's on the other
 
 The app picks out certain cards to review for the day. That's where I start, but I might veer off to other cards because of the bi-directional links, or because of other concepts I remember. That burst of natural interest is a random but significant boost to my learning process, and I try not to let it go to waste.
 
-If this kind of review seems inefficient or unfocused, I elaborate on the idea of sandbox-style learning vs archery-style learning over here. 
+If this kind of review seems inefficient or unfocused, I elaborate on the idea of sandbox-style learning vs archery-style learning over [here](https://3dvkr.github.io/blog/sandboxes-archery/). 
 
 Thanks for reading! I hope it was useful. I'd love to hear your thoughts over on [Twitter](https://twitter.com/_dvkr).
