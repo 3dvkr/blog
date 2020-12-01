@@ -3,6 +3,8 @@ title: "Sandboxes or Archery Ranges?"
 date: 2020-11-30
 tags: [learning-strategies]
 ---
+A quick framework for learning.
+
 Learning is, in many ways, a lot more accessible that it was in the past. There are experts, courses, tutorials ready to establish that conduit of knowledge from them to us learners, sometimes through online content creation. And this proliferation of educational content has created its own hurdles. There's no good way to filter by teaching style, for example. There's no good way to check if the course is too easy or too hard according on our previous experience before starting it. This means we are ultimately responsible for making sure we're actually learning and making progress. 
 
 And there are so many ways to do that. But *what* we do is as important as *how* we approach these activities. Going at this on our own raises an interesting question: do we want to learn in a sandbox, or do we want to learn in an archery range?
