@@ -9,7 +9,7 @@ Here's a question that should be simple enough: which of these two options is se
 
 More importantly, which option will the majority of people think is selected? It's possible to make a case for both answers--I found this on a twitter thread asking the same question, and both options had lots of votes. There was no clear winner. And that's a problem. 
 
-Most of the replies reasoned, *I don't know, it just doesn't make sense the other way,* or words to that effect. This got me thinking, *What cues are people picking up on, and how are those cues informing them?* 
+Most of the replies reasoned, *I don't know, it just doesn't make sense the other way,* or words to that effect. This got me thinking, *What cues are people picking up on, and how are those cues informing them?* Here's one train of thought on the matter.
 
 ## The Anchoring Effect
 
