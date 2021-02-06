@@ -54,6 +54,9 @@ feed:
 #twitter_username: _dvkr # DO NOT include the @ character, or else the build will fail!
 
 #show_excerpts: true # set to false to remove excerpts on the homepage
+markdown: kramdown
+highlighter: rouge
+
 kramdown:
   use_coderay: true
 
@@ -61,3 +64,4 @@ kramdown:
     coderay_line_numbers: true
     coderay_tab_width: 2
     coderay_default_lang: javascript
+    syntax_highlighter: rouge    
