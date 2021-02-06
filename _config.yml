@@ -56,14 +56,14 @@ feed:
 #show_excerpts: true # set to false to remove excerpts on the homepage
 
 highlighter: rouge
-kramdown:
-  input: GFM
+# kramdown:
+#   input: GFM
   
-# markdown: kramdown
-  use_coderay: true
+# # markdown: kramdown
+#   use_coderay: true
 
-  coderay:
-    coderay_line_numbers: true
-    coderay_tab_width: 2
-    coderay_default_lang: JS
-    syntax_highlighter: rouge    
+#   coderay:
+#     coderay_line_numbers: true
+#     coderay_tab_width: 2
+#     coderay_default_lang: JS
+#     syntax_highlighter: rouge    
